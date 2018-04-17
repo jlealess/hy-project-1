@@ -525,20 +525,7 @@ button.controls-right {
     
 }
 
-.stat-icon-shield {
-    /* background-image: url(../images/shield.svg); */
-}
-
-.stat-icon-heart {
-    background-image: url(../images/heart.svg);
-}
-
-.stat-icon-star {
-    /* background-image: url(../images/star.svg); */
-}
-
 .stat-icon-avatar {
-    background-image: url(../images/avatar.svg);
     height: 56px;
     margin-bottom: 20px;
     position: relative;
